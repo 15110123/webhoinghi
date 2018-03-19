@@ -1,0 +1,63 @@
+.main>.content>.newsCard{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main>.content>.newsCard>.main{
+    display: block;
+    padding-left: 0;
+    height: initial;
+}
+
+.main>.content>.newsCard>.main>.img{
+    display: inline-block;
+    height: 200px;
+    width: 30%;
+    vertical-align: top;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.main>.content>.newsCard>.main>.caption{
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 25px;
+    height: 100px;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.main>.content>.newsCard>h1>a{
+    font-size: 30px;
+}
+
+.main>.content>.newsCard>h1>form{
+    display: inline;
+}
+
+.main>.content>.newsCard>h1>form>a{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.main>.content>.newsCard>h1>form>.del{
+    color: rgb(153, 0, 0);
+}
+
+.main>.content>.newsCard>h1>form>.edit{
+    color: rgb(25, 0, 255);
+}
+
+.main>.content>.newsCard>h1>small{
+    font-size: 20px;
+    color: rgb(119, 119, 119);
+}
+
+.main>.content>form>a{
+    font-size: 20px;
+    color: rgb(9, 0, 94);
+    cursor: pointer;
+    font-weight: bold;
+}
