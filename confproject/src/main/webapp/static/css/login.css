@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to bottom left, #6600cc 0%, #292a54 100%);
+  color: #fff;
+  height: 100vh;
+  display: block;
+}
+
+.formContainer {
+    width: 30%;
+    margin: 50px auto;
+}
+
+.frmLogin > .btn.btn-primary {
+  background-color: #292a54;
+  border-color: #fff;
+}
+
+.frmLogin > .btn.btn-primary:focus {
+  background-color: #292a54;
+}

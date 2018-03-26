@@ -1,0 +1,9 @@
+.main>.content>.body>.editor>form>.btnSubmit{
+    margin-top: 10px;
+    background-color: #292A54;
+    border-radius: 20px;
+    border-width: 0;
+    color: #fff;
+    padding: 5px 5px 5px 5px;
+    cursor: pointer;
+}
