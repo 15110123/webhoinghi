@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIAIX7WLTZ6MQ5LBALQ
+  secretKey: 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
+  bucketName: uploaddeletefile
